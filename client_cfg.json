@@ -1,0 +1,7 @@
+{
+  "speed": 7.0,
+  "velocity": 10.0,
+  "position": "center",
+  "domainConfig": "http://rgis.me/fang_fun_readme.txt",
+  "listDMBK": ["http://rgis.me/fang_fun_url.json"]
+}
