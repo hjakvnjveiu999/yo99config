@@ -1,1 +1,1 @@
-# yo99config
+# Fang Fun's Configurations
